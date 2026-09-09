@@ -27,14 +27,6 @@ A course management module implemented as part of the Student Management System 
 **GitHub Repository:**
 [Course Management System](https://github.com/Prakash1233ruw/Student_Mangement_System.git)
 
----
 
-## Technologies Used
-
-* Java
-* Object-Oriented Programming (OOP)
-* Service-Based Design
-* Git
-* GitHub
 
 
